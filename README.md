@@ -36,11 +36,11 @@ If you find our code or algorithm useful for your research, please cite:
 
 ```
 @inproceedings{10221960,
-	title        = {Context-Aware Multi-Stream Networks for Dimensional Emotion Prediction in Images},
-	author       = {Nagappan, Sidharrth and Tan, Jia Qi and Wong, Lai-Kuan and See, John},
-	year         = 2023,
-	booktitle    = {2023 IEEE International Conference on Image Processing (ICIP)},
-	pages        = {2480--2484},
-	doi          = {10.1109/ICIP49359.2023.10221960},
+  title        = {Context-Aware Multi-Stream Networks for Dimensional Emotion Prediction in Images},
+  author       = {Nagappan, Sidharrth and Tan, Jia Qi and Wong, Lai-Kuan and See, John},
+  year         = 2023,
+  booktitle    = {2023 IEEE International Conference on Image Processing (ICIP)},
+  pages        = {2480--2484},
+  doi          = {10.1109/ICIP49359.2023.10221960},
 }
 ```
