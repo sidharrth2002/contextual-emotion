@@ -34,7 +34,7 @@ For enquiries related to the code, please contact [Sidharrth](mailto:sidharrth20
 
 If you find our code or algorithm useful for your research, please cite:
 
-```
+```bibtex
 @inproceedings{10221960,
   title        = {Context-Aware Multi-Stream Networks for Dimensional Emotion Prediction in Images},
   author       = {Nagappan, Sidharrth and Tan, Jia Qi and Wong, Lai-Kuan and See, John},
